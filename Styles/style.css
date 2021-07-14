@@ -170,4 +170,23 @@ footer{
     .player-card{
         align-items: center;
     }
+    .highlight-div-container{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .highlight-article{
+        width: 100%;
+        margin: 0;
+    }
+    #highlight-title{
+        font-size: 30px;
+    }
+    .highlight-image-container{
+        width: 100%;
+        margin-top: 30px;
+    }
+    .highlight-image{
+        width: 100%;
+    }
 }
