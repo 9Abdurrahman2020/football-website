@@ -162,4 +162,12 @@ footer{
     .banner-image{
         width: 100%;
     }
+    .player-cards{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .player-card{
+        align-items: center;
+    }
 }
