@@ -175,6 +175,9 @@ footer{
         flex-direction: column;
         margin-top: 50px;
     }
+    #highlight-section{
+        margin-bottom: 40px;
+    }
     .highlight-article{
         width: 100%;
         margin: 0;
@@ -189,4 +192,14 @@ footer{
     .highlight-image{
         width: 100%;
     }
+    .rank-vote-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-container{
+        width: 100%;
+    }
+    .footer-image{
+    width: 100%;
+}
 }
